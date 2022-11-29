@@ -1,0 +1,66 @@
+* {
+	box-sizing: border-box;
+}
+
+html {
+	font-size: 20px;
+}
+
+body {
+	margin: 0;
+	padding: 30px;
+	display: flex;
+	justify-content: center;
+	height: 100%;
+	background-color: #6a1b9a;
+	color: #FFF;
+	font-family: 'Roboto',sans-serif;
+}
+
+
+main {
+	background-color: #9c4dcc;
+	padding: 20px;
+	width: 700px;;
+    display: flex;
+}
+
+form{
+	width: 50%;
+    padding: 20px;
+}
+
+form label{
+    display: block;
+    font-size: 0.6rem;
+    margin-bottom: 15px;
+}
+
+form label span::after{
+    content: ':';
+}
+
+form input {
+	display: block;
+	width:calc(100%);
+	font-size: 1rem;
+	padding: 5px;
+}
+
+form .controles{
+    display: flex;
+    justify-content: flex-end;
+}
+
+form .controles button {
+	display: block;
+	font-size: 1rem;
+	border: none;
+    padding: 10px 20px;
+    background-color: #6a1b9a;
+    color: #FFF;
+}
+
+#form-login{
+    border-left: 1px solid #6a1b9a;
+}

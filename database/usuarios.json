@@ -40,5 +40,17 @@
         "nome": "Goleador da Suíça",
         "email": "goleador7@suica.com",
         "senha": "$2b$10$I0x18K59hKvOUR3jFbBaX./CQ.RIwnm4xsYCcSUbEGtIC8BUG6xZW"
+    },
+    {
+        "id": 10,
+        "nome": "sdfsdf",
+        "email": "weqdwed",
+        "senha": "$2b$10$sDNBQLhiv/oW4ncXnB/Rge6SYmsWqm99FrSSHdjx375EKr4GNaHgC"
+    },
+    {
+        "id": 11,
+        "nome": "matheus",
+        "email": "matheus@matheus.com",
+        "senha": "$2b$10$9cqA9k.2wXq26e0GVfA6Hek0OP1l2MJ.VK2PKeJNeGpZ1iF/JGMEO"
     }
 ]
